@@ -12,5 +12,7 @@ public class Main {
         box2.showVolume();
         box3.showVolume();
 
+        box1.showHi();
+
     }
 }

@@ -63,5 +63,8 @@ public class Box {
     void showHi(){
         System.out.println("Hi");
     }
+    void showBye(){
+        System.out.println("Bye");
+    }
 
 }
