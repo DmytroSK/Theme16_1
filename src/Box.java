@@ -60,4 +60,8 @@ public class Box {
         System.out.println(volume());
     }
 
+    void showHi(){
+        System.out.println("Hi");
+    }
+
 }
