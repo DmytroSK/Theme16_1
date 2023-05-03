@@ -33,4 +33,8 @@ public class Dog {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void testClass(){
+        System.out.println("Ahhha");
+    }
 }
